@@ -4,7 +4,7 @@
 
 - [defineConfig](functions/defineConfig.md)
 - [dirPath](functions/dirPath.md)
-- [generatePublicEnviromentsFile](functions/generatePublicEnviromentsFile.md)
+- [generatePublicEnvironmentsFile](functions/generatePublicEnvironmentsFile.md)
 - [getCache](functions/getCache.md)
 - [getDefaultPublicEnvOptions](functions/getDefaultPublicEnvOptions.md)
 - [getEnvVariables](functions/getEnvVariables.md)

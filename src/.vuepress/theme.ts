@@ -25,7 +25,7 @@ export default hopeTheme({
       displayFooter: true,
       copyright: false,
       // copyright: 'Stone.js is a Trademark of Stonesify LLC.',
-      footer: 'Licensed under the MIT License. <br> <br> Copyright © 2025 Stone Foundation. All rights reserved.',
+      footer: 'Licensed under the MIT License. <br> <br> Copyright © 2026 Stone Foundation. All rights reserved.',
       metaLocales: {
         editLink: "Edit this page on GitHub",
       },

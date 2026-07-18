@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "bulma": "^1.0.4",
-    "lucide-vue-next": "^0.522.0"
+    "lucide-vue-next": "^0.523.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.8.1",

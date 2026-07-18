@@ -20,7 +20,7 @@ Let’s explore how it works.
 
 Stone.js projects come with built-in scripts that simplify development and production workflows. These commands are designed to help you iterate quickly in development and produce clean, optimized builds for deployment, with zero runtime dependencies.
 
-Theses commands are available via the `stone` CLI, which is installed automatically when you set up a Stone.js project using `npm create @stone-js`.
+These commands are available via the `stone` CLI, which is installed automatically when you set up a Stone.js project using `npm create @stone-js`.
 
 ### `npx stone dev` or `npx stone serve`
 

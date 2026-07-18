@@ -45,7 +45,7 @@ flowchart LR
     style D stroke-width:4px,fill:#FFFFFF
 ```
 
-By default, a Stone.js app has one event handler. If you need multiple entry points, use the [Router](../router) to delegate the right events to the right handlers.
+By default, a Stone.js app has one event handler. If you need multiple entry points, use the [Router](../router/) to delegate the right events to the right handlers.
 
 ## Variants and Execution
 
@@ -263,7 +263,7 @@ export class Application implements IEventHandler<IncomingEvent> {
 As soon as you decorate the class with `@StoneApp()`, the system recognizes it as your main application entrypoint and automatically wires up the event handler.
 
 Note: You can only have **one main event handler** by default.  
-For multiple handlers, see the [Router documentation](../router) to route events conditionally.
+For multiple handlers, see the [Router documentation](../router/) to route events conditionally.
 
 @tab Imperative
 ### Imperative Registration
@@ -334,7 +334,7 @@ export class UserEventHandler {
 }
 ```
 
-Check out the [Router documentation](../router) to learn more about how to set it up and use it.
+Check out the [Router documentation](../router/) to learn more about how to set it up and use it.
 
 Stone.js lets you scale from **mono-handler** to **multi-handler** seamlessly, with no change to how event handlers are written.
 

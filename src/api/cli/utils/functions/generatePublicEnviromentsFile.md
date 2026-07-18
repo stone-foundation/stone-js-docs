@@ -1,7 +1,7 @@
-# Function: generatePublicEnviromentsFile()
+# Function: generatePublicEnvironmentsFile()
 
 ```ts
-function generatePublicEnviromentsFile(blueprint, baseOutputPath): boolean;
+function generatePublicEnvironmentsFile(blueprint, baseOutputPath): boolean;
 ```
 
 Generates environment files for the browser environment.

@@ -1,6 +1,6 @@
 # Stone.js - Documentation
 
-![Maintenance](https://img.shields.io/maintenance/yes/2025)
+![Maintenance](https://img.shields.io/maintenance/yes/2026)
 [![Build Status](https://github.com/stone-foundation/stone-js-docs/actions/workflows/main.yml/badge.svg)](https://github.com/stone-foundation/stone-js-docs/actions/workflows/main.yml)
 [![Deploy Status](https://github.com/stone-foundation/stone-js-docs/actions/workflows/release.yml/badge.svg)](https://github.com/stone-foundation/stone-js-docs/actions/workflows/release.yml)
 [![Dependabot Status](https://img.shields.io/badge/Dependabot-enabled-brightgreen.svg)](https://github.com/stone-foundation/stone-js-docs/network/updates)
